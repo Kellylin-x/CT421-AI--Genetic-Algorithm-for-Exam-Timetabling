@@ -1,0 +1,26 @@
+{
+    "filename": "small-2.txt",
+    "N": 15,
+    "K": 9,
+    "M": 30,
+    "best_fitness": -30,
+    "hard_conflicts": 0,
+    "soft_conflicts": 30,
+    "best_solution": [
+        4,
+        8,
+        4,
+        9,
+        2,
+        7,
+        3,
+        4,
+        3,
+        5,
+        6,
+        7,
+        1,
+        9,
+        2
+    ]
+}

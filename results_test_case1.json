@@ -1,0 +1,19 @@
+{
+    "filename": "test_case1.txt",
+    "N": 8,
+    "K": 4,
+    "M": 15,
+    "best_fitness": -22,
+    "hard_conflicts": 0,
+    "soft_conflicts": 22,
+    "best_solution": [
+        2,
+        4,
+        3,
+        1,
+        1,
+        2,
+        4,
+        3
+    ]
+}
